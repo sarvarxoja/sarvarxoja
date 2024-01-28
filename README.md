@@ -7,9 +7,6 @@
 
 - 🔭 I’m currently working on **Online shopping**
 
-- 🌱 I’m currently learning **NestJs, Graphql, TypeScript**
-
-- 💬 Ask me about **ReactJs, VueJs**
 
 - 📫 If you need my email address ****
 
